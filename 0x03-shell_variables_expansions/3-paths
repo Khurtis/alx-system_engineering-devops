@@ -1,0 +1,2 @@
+#!/bin/bash
+$PARH | tr -s ':' '\n' | wc -lXS
